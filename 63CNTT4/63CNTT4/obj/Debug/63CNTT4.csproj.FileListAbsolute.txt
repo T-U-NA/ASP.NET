@@ -156,3 +156,10 @@ C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\obj\Debug\63CNTT4.csproj
 C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\obj\Debug\63CNTT4.csproj.CopyComplete
 C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\obj\Debug\63CNTT4.dll
 C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\obj\Debug\63CNTT4.pdb
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\EntityFramework.dll
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\EntityFramework.SqlServer.dll
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\MyClass.dll
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\MyClass.pdb
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\MyClass.dll.config
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\EntityFramework.xml
+C:\Users\ACER\Documents\ASP.NET\ASP.NET\63CNTT4\63CNTT4\bin\EntityFramework.SqlServer.xml
